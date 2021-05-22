@@ -5,4 +5,4 @@ can be started by running
 
 You should see app on localhost:4444
 
-![Image of App](./src/main/Assignment.png)
+![Image of App](./src/main/Assignment.PNG)
