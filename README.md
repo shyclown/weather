@@ -3,6 +3,8 @@
 For preview visit: (https://shyclown.github.io/weather/) -> click current location top right or use search field
 There is a bit of delay but results will appear in selected section.
 
+NOTE: It is required to activate https://cors-anywhere.herokuapp.com/corsdemo you can click on error in console to make CORS available.
+
 ### How to set up things locally
 
 App is bootstraped with create-react-app 
